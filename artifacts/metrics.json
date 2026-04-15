@@ -1,0 +1,14 @@
+{
+  "accuracy": 1.0,
+  "f1_score": 1.0,
+  "n_samples": 1511,
+  "n_train": 1208,
+  "n_test": 303,
+  "feature_names": [
+    "capacity",
+    "numbikesavailable",
+    "numdocksavailable",
+    "mechanical",
+    "ebike"
+  ]
+}
