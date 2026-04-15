@@ -1,6 +1,6 @@
 # Vélib MLOps — Prédiction de disponibilité des vélos
 
-Projet MLOps complet basé sur le dataset **Vélib - Vélos et bornes - Disponibilité temps réel** ([opendata.paris.fr](https://opendata.paris.fr)).
+Projet MLOps basé sur le dataset **Vélib - Vélos et bornes - Disponibilité temps réel** ([opendata.paris.fr](https://opendata.paris.fr)).
 
 ## Objectif
 
